@@ -103,7 +103,7 @@ in 2023, pending volunteer signup.
 **NIH Intramural Data Science**
 
 - mailing list: [NIH-DATASCIENCE-L](https://list.nih.gov/cgi-bin/wa.exe?A0=nih-datascience-l) 
-- https://join.slack.com/t/nihdatascience/signup
+- slack: [nihdatascience](https://join.slack.com/t/nihdatascience/signup) 
 
 **NIH Data Science Teams**
 
@@ -113,10 +113,15 @@ in 2023, pending volunteer signup.
 
 - web: [NIH Library Bioinformatics Training](https://www.nihlibrary.nih.gov/training/bioinformatics)
 
-- NIH Office of Data Science Strategy
-  - web: [Data Science at NIH |](https://datascience.nih.gov/)
-  - email: datascience@nih.gov
-  - twitter: [@NIHDataScience](https://twitter.com/NIHDataScience)
+**NIH Office of Data Science Strategy**
+
+> The Office of Data Science Strategy (ODSS) leads implementation of the NIH Strategic Plan for Data
+> Science through scientific, technical, and operational collaboration with the institutes, centers,
+> and offices that comprise NIH. 
+
+- web: [Data Science at NIH](https://datascience.nih.gov/)
+- email: datascience@nih.gov
+- twitter: [@NIHDataScience](https://twitter.com/NIHDataScience)
 
 **Inactive organizations (?)**:
 
