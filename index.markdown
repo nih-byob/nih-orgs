@@ -112,7 +112,6 @@ in 2023, pending volunteer signup.
 **NIH Library Bioinformatics Training**
 
 - web: [NIH Library Bioinformatics Support Program](https://www.nihlibrary.nih.gov/services/bioinformatics-support)
-- web: [NIH Library Bioinformatics Training](https://www.nihlibrary.nih.gov/training/calendar?field_training_category_target_id%5B261%5D=261&default_calendar_view=dayGridMonth)
 
 **NIH Office of Data Science Strategy**
 
