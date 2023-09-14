@@ -109,6 +109,15 @@ in 2023, pending volunteer signup.
 - twitter: [@NCIDataSci](https://twitter.com/NCIDataSci)
 - youtube: [Data Science Seminar Series - YouTube](https://www.youtube.com/playlist?list=PLFAF53BE7B120386E)
 
+**Integrated Data Science Section at RTB/NIAID**
+
+> The IDSS collaborates with NIAID and NIH scientists to provide bioinformatics, data science, and computational biology expertise for genomics, proteomics, biostatistics, structural biology, image analysis and visualization (including 3D models and reconstructions), machine learning and AI, and molecular modeling and simulation. The IDSS brings together domain scientists with strong computational expertise to address complex scientific problems and leverages a shared team approach as projects often require expertise in multiple areas of data analysis and domain science that are beyond the expertise and capacity of a single analyst.
+
+- web: [IDSS at RTB/NIAID](https://www.niaid.nih.gov/research/research-technologies-branch-integrated-data-sciences)
+- email: Jack.Collins@nih.gov
+- github: [OpenOmics](https://github.com/OpenOmics) and [IDSS-NIAID](https://github.com/idss-niaid)
+- video introduction: [Meet IDSS](https://www.youtube.com/watch?v=p_EilHonF8w)
+
 **NIH Intramural Data Science**
 
 - mailing list: [NIH-DATASCIENCE-L](https://list.nih.gov/cgi-bin/wa.exe?A0=nih-datascience-l) 
